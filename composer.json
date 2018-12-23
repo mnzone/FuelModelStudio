@@ -1,0 +1,12 @@
+{
+    "name": "ray/fuel-model-studio",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ray",
+            "email": "mnzone.cn@icloud.com"
+        }
+    ],
+    "require": {}
+}
